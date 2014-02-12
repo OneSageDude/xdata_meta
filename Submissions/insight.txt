@@ -1,0 +1,13 @@
+{
+   "DARPA Program":"Insight",
+    "Program Teams": [],
+    "Software":"Insight Program Software",
+    "Internal Link":"",
+    "External Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Insight.aspx",
+    "Public Code Repo":"",
+    "Description":"DARPA’s Insight program aims to create an adaptable, integrated Intelligence, Surveillance and Reconnaissance (ISR) system to augment intelligence analysts’ capabilities to support time-sensitive operations on the battlefield.",
+    "Internal Code Repo":"",
+    "License":"Government Purpose Rights – see External Link above for contact information",
+    "Languages":[],
+    "Categories":[]
+}
